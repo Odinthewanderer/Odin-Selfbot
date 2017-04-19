@@ -1,5 +1,7 @@
 # Odin-Selfbot
 
+[![Dependency status](https://david-dm.org/Odinthewanderer/Odin-Selfbot.svg)](https://david-dm.org/Odinthewanderer/Odin-Selfbot)
+
 ## Getting your login token
 
 1. From either the web application, or the installed Discord app, use the **CTRL+SHIFT+I** keyboard shortcut.
